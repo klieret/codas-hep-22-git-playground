@@ -6,7 +6,8 @@
 newIssueWelcomeComment: >
   Thanks for opening your first issue here!
   Here's a couple of more things you can do here: Add an additional comment (try
-  mentioning some other participant), modify your initial report, react to this message.
+  mentioning some other participant), modify your initial report, react to this message with an emoji,
+  close & reopen this issue, find other open issues of this project and comment there.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
