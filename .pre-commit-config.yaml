@@ -3,3 +3,4 @@
     hooks:
     -   id: codespell
         args: ["-I", "codespell.txt"]
+        exclude: ".*/random-text.txt"
